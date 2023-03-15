@@ -1,4 +1,4 @@
-# 클라이언트 개발자 최대원 입니다
+# 클라이언트 개발자 지망생 입니다
 
 > ### Inform
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkdkdsa&show_icons=true&theme=radical&locale=kr)
